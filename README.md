@@ -1,6 +1,6 @@
 <div align="center">
 
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fj-fj-fj&langs_count=10&layout=compact&theme=midnight-purple" alt="fj-fj-fj" />
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fj-fj-fj&langs_count=10&hide=plpgsql,mako&layout=compact&theme=midnight-purple" alt="fj-fj-fj" />
   
   
   <a href="https://stackshare.io/fj-fj-fj"><img src="https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="StackShare"></a>
